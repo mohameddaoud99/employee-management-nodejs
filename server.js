@@ -7,7 +7,7 @@ const cors =require('cors')
 
 app.use(cors(
     {
-        origin:["https://employee-management-nodejs.vercel.app"],
+        origin:["https://employee-management-nodejs-mohameddaoud99s-projects.vercel.app"],
         methods :["POST","GET"],
         Credentials :true
     }
