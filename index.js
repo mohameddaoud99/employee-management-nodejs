@@ -102,3 +102,4 @@ connect('mongodb+srv://mohameddaoud99:yNDLAWlTL9vtNNag@cluster0.jaaqxok.mongodb.
 }).catch((error) => {
     console.log(error)
 })
+module.exports = app;
